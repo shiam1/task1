@@ -15,20 +15,20 @@ namespace fashion_store
 
         public Client()
         {
-            shoesPublisher = new Publisher<string>();
-            makeUpPublisher = new Publisher<string>();
+            shoesPublisher = new Publisher<string>(); //create publisher of type string
+            makeUpPublisher = new Publisher<string>(); //create publisher of type string
 
             Console.WriteLine("There is our customer's type and the notifications corresponding ");
 
 
 
             
-            makeUpSub = new Subscriber<string>(makeUpPublisher);
-            makeUpSub.Publisher.DataPublisher += publisher_DataPublisher1;
+            makeUpSub = new Subscriber<string>(makeUpPublisher); //subscriber makeUpSub subscribe to  makeUpPublishe
+            makeUpSub.Publisher.DataPublisher += publisher_DataPublisher1; 
 
             
 
-            shoesSub = new Subscriber<string>(shoesPublisher);
+            shoesSub = new Subscriber<string>(shoesPublisher); //subscriber shoesSub subscribe to  shoesPublisher
             shoesSub.Publisher.DataPublisher += publisher_DataPublisher2;
 
             shoesPublisher.PublishData("Hi , there is anew offer on our fashion products ");
