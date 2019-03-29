@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\fashion store.exe.config
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\fashion store.exe
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\fashion store.pdb
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\AutoFixture.dll
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\Fare.dll
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\AutoFixture.pdb
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\AutoFixture.xml
+C:\Users\Administrator\source\repos\fashion store\fashion store\bin\Debug\Fare.xml
+C:\Users\Administrator\source\repos\fashion store\fashion store\obj\Debug\fashion store.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\fashion store\fashion store\obj\Debug\fashion store.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\fashion store\fashion store\obj\Debug\fashion store.csproj.CopyComplete
+C:\Users\Administrator\source\repos\fashion store\fashion store\obj\Debug\fashion store.exe
+C:\Users\Administrator\source\repos\fashion store\fashion store\obj\Debug\fashion store.pdb
